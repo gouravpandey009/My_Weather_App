@@ -12,7 +12,7 @@
 ![Screenshot 4](screenshot/weather4.PNG)
 ![Screenshot 5](screenshot/weather5.PNG)
 ![Screenshot 6](screenshot/weather6.PNG)
-![Screenshot 7](screenshot/weather7.jpg)
+
 
 ## Get API Keys
 
